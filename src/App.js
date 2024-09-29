@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import "./styles/globals.css";
 
-const api = "https://magical-pigeon-annually.ngrok-free.app/"
+const api = "https://ebed-188-43-136-44.ngrok-free.app"
 
 const App = () => {
   const [imgSrc, setimgSrc] = useState("")
